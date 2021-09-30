@@ -11,4 +11,4 @@ Software: Social Distancing Analyser COVID 19
 
 License: [i.e. Apache 2.0]
 
-Licensor: Ankush Chaudhari
+Licensor: Abhinav Krishna
