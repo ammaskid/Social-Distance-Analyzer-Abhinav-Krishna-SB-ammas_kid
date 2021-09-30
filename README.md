@@ -13,7 +13,7 @@ Deploying it on current surveillance systems and drones used by police to monito
   ## I would really appreciate if you give it a star. :star:
   ## YOU ARE NOT ALLOWED TO COMMERCIALIZE OR MONETIZE THIS CODE IN ANY FORM.(Not even youtube)
   ## IF ANYONE FOUND TO BE VIOLATING THESE TERMS AND LICENCE, LEGAL ACTION WOULD BE TAKEN AGAINST THE PERSON.
-  ## ASK FOR MY PERMISSION via email (mr.skilled.coder@gmail.com) before publicizing any part of code or output generated from it. Read Licence to avoid problems
+  ## ASK FOR MY PERMISSION via email (ammasboy01@gmail.com) before publicizing any part of code or output generated from it. Read Licence to avoid problems
  
 #### v1.0 output:
 
